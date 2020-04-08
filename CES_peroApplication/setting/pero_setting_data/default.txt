@@ -1,0 +1,2 @@
+linear3:시작화면 열기(Default)
+linear4:모든창 최소화(Default)
